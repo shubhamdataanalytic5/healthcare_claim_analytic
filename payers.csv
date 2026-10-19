@@ -1,0 +1,7 @@
+payer_id,payer_name,payer_type
+PY001,Aetna,Commercial
+PY002,Cigna,Commercial
+PY003,UnitedHealthcare,Commercial
+PY004,Blue Cross Blue Shield,Commercial
+PY005,Medicare,Government
+PY006,Medicaid,Government

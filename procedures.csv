@@ -1,0 +1,11 @@
+cpt_code,procedure_description,service_category
+99213,Established patient office visit - low complexity,Office Visit
+99214,Established patient office visit - moderate complexity,Office Visit
+99215,Established patient office visit - high complexity,Office Visit
+80053,Comprehensive metabolic panel,Laboratory
+85025,Complete blood count,Laboratory
+71046,Chest X-ray,Radiology
+93000,Electrocardiogram,Cardiology
+36415,Venipuncture,Laboratory
+74177,CT abdomen/pelvis with contrast,Radiology
+90834,Psychotherapy,Behavioral Health

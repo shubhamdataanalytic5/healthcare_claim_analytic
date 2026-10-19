@@ -1,0 +1,51 @@
+provider_id,provider_name,provider_type,state,network_status
+PR1000,Martin Hospital,Primary Care,PA,Out-of-Network
+PR1001,Clark Healthcare,Primary Care,TX,In-Network
+PR1002,Harris Healthcare,Imaging Center,FL,In-Network
+PR1003,Taylor Center,Primary Care,CA,In-Network
+PR1004,Clark Healthcare,Urgent Care,PA,In-Network
+PR1005,Smith Clinic,Hospital,NJ,In-Network
+PR1006,Miller Center,Imaging Center,TX,In-Network
+PR1007,Jones Medical Group,Specialist,FL,In-Network
+PR1008,Garcia Clinic,Urgent Care,TX,In-Network
+PR1009,Harris Hospital,Imaging Center,PA,In-Network
+PR1010,Anderson Hospital,Primary Care,OH,In-Network
+PR1011,Martinez Clinic,Primary Care,GA,In-Network
+PR1012,Thomas Healthcare,Primary Care,TX,In-Network
+PR1013,Martinez Center,Primary Care,NJ,In-Network
+PR1014,Davis Clinic,Specialist,NJ,In-Network
+PR1015,Martinez Hospital,Urgent Care,NY,In-Network
+PR1016,Miller Hospital,Hospital,TX,In-Network
+PR1017,White Hospital,Specialist,GA,In-Network
+PR1018,Thompson Healthcare,Specialist,AZ,In-Network
+PR1019,Anderson Hospital,Hospital,IL,In-Network
+PR1020,Wilson Healthcare,Hospital,GA,In-Network
+PR1021,Smith Center,Primary Care,IL,In-Network
+PR1022,Miller Center,Specialist,IL,In-Network
+PR1023,Martin Healthcare,Imaging Center,OH,In-Network
+PR1024,Smith Healthcare,Hospital,NY,In-Network
+PR1025,Thomas Healthcare,Hospital,GA,Out-of-Network
+PR1026,Martinez Healthcare,Urgent Care,GA,In-Network
+PR1027,Garcia Healthcare,Imaging Center,OH,In-Network
+PR1028,Wilson Medical Group,Imaging Center,TX,In-Network
+PR1029,Jackson Clinic,Hospital,TX,In-Network
+PR1030,Wilson Medical Group,Primary Care,TX,In-Network
+PR1031,Harris Hospital,Urgent Care,CA,In-Network
+PR1032,Smith Medical Group,Imaging Center,IL,Out-of-Network
+PR1033,Robinson Center,Hospital,CA,In-Network
+PR1034,Thompson Center,Imaging Center,NY,In-Network
+PR1035,Taylor Healthcare,Urgent Care,OH,In-Network
+PR1036,Johnson Healthcare,Urgent Care,GA,In-Network
+PR1037,Miller Medical Group,Specialist,IL,In-Network
+PR1038,Smith Medical Group,Hospital,CA,In-Network
+PR1039,Thompson Center,Urgent Care,CA,In-Network
+PR1040,Taylor Center,Specialist,FL,Out-of-Network
+PR1041,White Medical Group,Specialist,CA,In-Network
+PR1042,Thomas Hospital,Imaging Center,AZ,In-Network
+PR1043,Johnson Center,Imaging Center,GA,In-Network
+PR1044,Miller Hospital,Specialist,AZ,In-Network
+PR1045,Miller Clinic,Imaging Center,GA,In-Network
+PR1046,Miller Healthcare,Urgent Care,OH,In-Network
+PR1047,Martinez Center,Primary Care,GA,In-Network
+PR1048,Taylor Clinic,Urgent Care,AZ,In-Network
+PR1049,White Clinic,Specialist,GA,In-Network
